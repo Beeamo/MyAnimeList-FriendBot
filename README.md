@@ -34,7 +34,7 @@ Install latest webdriver from https://chromedriver.chromium.org/downloads
 Install requirements and run
 
 ```git
-  pip install -r requirements
+  pip install -r requirements.txt
   python main.py
 ```
     
