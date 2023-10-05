@@ -3,7 +3,7 @@
 
 This is a python rewrite of https://github.com/Lastmentor/MyAnimeList_FriendBot 
 
-I created this because the original repository is 2 years old with no updates and the bot was skipping 50% of users.
+It was very inefficient and didn't actually add the people it stated it did.
 
 ## Improvements
 - Simple Cache - Adds users only once
